@@ -1,2 +1,7 @@
-# unity-vr-hands-template
-Unity VR with hands template
+# Unity project template with hands
+Unity VR project with hand entities that you can use as a base for a VR project that has hand interactions.
+Uses universal RP so it can theoreticly run on an a Quest although I tried it only on my Rift S via PC VR.
+
+## Example:
+
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThiMjI5M2U2ZDE2OTYwNjI2ZDNmOTllNDM0Yjk3YzY3YzRmYjk1OCZjdD1n/L9BezjgqptAoDMM9lZ/giphy.gif)
