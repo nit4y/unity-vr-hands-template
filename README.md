@@ -1,8 +1,18 @@
-# Unity project template with hands
-Unity VR project with hand entities that you can use as a base for a VR project that has hand interactions.
-Uses universal RP so it can theoreticly run on an a Quest although I tried it only on my Rift S via PC VR.
+# Unity VR project template with hands
+Unity VR project with hand entities that you can use as a base for a VR project.
 
-Tested with Unity 2021.3.20f1, Unity 2021.3.11f1.
+### Features
+1. Hand entities
+2. Basic box grabbable
+3. Basic Locomotion
+4. Universal RP integration
+
+### Tested headsets
+Rift S
+
+### Tested Unity Versions
+2021.3.20f1
+2021.3.11f1
 
 ## Example:
 
