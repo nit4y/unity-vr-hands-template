@@ -8,7 +8,7 @@ Unity VR project with hand entities that you can use as a base for a VR project.
 4. Universal RP integration
 
 ### Tested headsets
-Rift S
+Rift S, Quest 2, Quest 3
 
 ### Tested Unity Versions
 2021.3.20f1
